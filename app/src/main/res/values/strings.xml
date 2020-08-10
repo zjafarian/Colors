@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Colors</string>
+    <string name="button_red">RED</string>
+    <string name="button_orange">ORANGE</string>
+    <string name="button_yellow">Yellow</string>
+    <string name="button_green">GREEN</string>
+    <string name="button_blue">BLUE</string>
+    <string name="button_indigo">INDIGO</string>
+    <string name="button_violet">VIOLET</string>
+</resources>
